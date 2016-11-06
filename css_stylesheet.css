@@ -1,0 +1,71 @@
+html {
+    background: #FAFAFA;
+}
+
+.container {
+    /*padding-left: 15em;*/
+    height: 19.7em;
+    width: 25em;
+    
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    /* Make it centered!!! */
+}
+
+.quesh_num {
+    padding-left: 10.15em;
+    padding-bottom: 0.4em;
+}
+
+.quesh {
+    display: block;
+    /*float: left;*/
+    padding-left: 0.5em;
+    padding-top: 0.8em;
+}
+
+div {
+    display: block;
+    /*float: left;*/
+    /*text-align: center;*/
+    font-family: cursive;
+    border-radius: 8px;
+}
+
+ul {
+    text-align: left;
+    list-style-type: none;
+    padding-left: 4.28em;
+}
+
+.block {
+    background: #FF4752;
+    height: 19.7em;
+    width: 25em;
+    color: #FAFAFA;
+    padding-left: 0.5em;
+    padding-top: 0.4em;
+}
+
+.inner-block1 {
+    background: #FAFAFA;
+    height: 5em;
+    width: 24.5em;
+    color: #FF4752;
+    padding-top: 1.5em;
+    text-align: center;
+}
+
+.inner-block2 {
+    background: #FAFAFA;
+    height: 9.5em;
+    width: 17em;
+    color: #FF4752;
+    padding-left: 7.5em;
+}
+
+.answer {
+    
+}
+
