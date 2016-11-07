@@ -65,7 +65,18 @@ ul {
     padding-left: 7.5em;
 }
 
-.answer {
-    
+.answer:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
+a:link {
+    text-decoration: none;
+    color: #FF4752;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #FF4752;
 }
 
